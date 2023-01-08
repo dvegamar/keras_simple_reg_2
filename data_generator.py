@@ -19,5 +19,5 @@ print ('output dimensions ' ,targets.shape)
 
 # let´s print the array - this step is informative
 array = np.column_stack((x,y,z,noise,targets))
-np.set_printoptions(suppress=True) #skips scientific notation
+np.set_printoptions(suppress=True) #skips scientific notation on sreen
 print (np.around(array,4))
