@@ -9,6 +9,7 @@ The app is working at streamlit servers:
 
 Approach 1 app: https://dvegamar-keras-simple-reg-1-main-ex40td.streamlit.app/   
 
-Approach 2 app: 
+Approach 2 app: https://dvegamar-keras-simple-reg-2-main-nvnr5p.streamlit.app/
+
 
 Documentation is only in spanish and you can find it in the pdf of this repo.
